@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arkada-kazino-oficialnyy.vercel.com/sitemap.xml
